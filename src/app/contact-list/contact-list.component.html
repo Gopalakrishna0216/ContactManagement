@@ -1,0 +1,50 @@
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>Contact List</h2>
+    <button class="btn btn-primary" (click)="openAddModal()">+ Add New Contact</button>
+</div>
+
+<table class="table table-borderded table-hover">
+    <thead class="table-light">
+        <tr>
+            <th>firstName</th>
+            <th>lastName</th>
+            <th>email</th>
+            <th>phone</th>
+            <th>address</th>
+            <th>city</th>
+            <th>state</th>
+            <th>country</th>
+            <th>postalCode</th>
+            <th>actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let c of contacts">
+            <td>{{c.firstName}}</td>
+            <td>{{c.lastName}}</td>
+            <td>{{c.email}}</td>
+            <td>{{c.phoneNumber}}</td>
+            <td>{{c.address}}</td>
+            <td>{{c.city}}</td>
+            <td>{{c.state}}</td>
+            <td>{{c.country}}</td>
+            <td>{{c.postalCode}}</td>
+            <td>
+                <button class="btn btn-sm btn-primary" (click)="openEditModal(c)">
+                    <i class="bi bi-pencil-square"></i> Edit
+                </button>
+                <button class="btn btn-sm btn-danger" (click)="confirmDelete(c)">
+                    <i class="bi bi-trash"></i> Delete
+                </button>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<app-contact-form *ngIf="showFormModal" [contact]="selectedContact" [isEdit]="isEditMode"
+    (formClosed)="onFormClosed($event)">
+</app-contact-form>
+
+<app-contact-dialog *ngIf="showDeleteModal" [contact]="contactToDelete" 
+(deleteConfirmed)="onDeleteConfirmed($event)"
+>
+</app-contact-dialog>
