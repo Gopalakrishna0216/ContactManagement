@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|c:\\users\\gopal\\source\\repos\\knilaassessment_apis\\services\\contactservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|solutionrelative:services\\contactservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|c:\\users\\gopal\\source\\repos\\knilaassessment_apis\\models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|solutionrelative:models\\contactviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|c:\\users\\gopal\\source\\repos\\knilaassessment_apis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|c:\\users\\gopal\\source\\repos\\knilaassessment_apis\\controllers\\contactdtlscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|solutionrelative:controllers\\contactdtlscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|c:\\users\\gopal\\source\\repos\\knilaassessment_apis\\iservices\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|solutionrelative:iservices\\icontactservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|c:\\users\\gopal\\source\\repos\\knilaassessment_apis\\models\\contactbindmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|solutionrelative:models\\contactbindmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|c:\\users\\gopal\\source\\repos\\knilaassessment_apis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C8DF40D-9A71-4256-BC6C-7D9646074200}|KnilaAssessMent_APIs.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:32:43.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-08T14:27:57.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IContactService.cs",
+              "DocumentMoniker": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Iservices\\IContactService.cs",
+              "RelativeDocumentMoniker": "Iservices\\IContactService.cs",
+              "ToolTip": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Iservices\\IContactService.cs",
+              "RelativeToolTip": "Iservices\\IContactService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:27:36.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactServices.cs",
+              "DocumentMoniker": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Services\\ContactServices.cs",
+              "RelativeDocumentMoniker": "Services\\ContactServices.cs",
+              "ToolTip": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Services\\ContactServices.cs",
+              "RelativeToolTip": "Services\\ContactServices.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAewGsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:27:11.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactBindModel.cs",
+              "DocumentMoniker": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Models\\ContactBindModel.cs",
+              "RelativeDocumentMoniker": "Models\\ContactBindModel.cs",
+              "ToolTip": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Models\\ContactBindModel.cs",
+              "RelativeToolTip": "Models\\ContactBindModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:26:38.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Models\\ContactViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ContactViewModel.cs",
+              "ToolTip": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Models\\ContactViewModel.cs",
+              "RelativeToolTip": "Models\\ContactViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:26:22.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactDtlsController.cs",
+              "DocumentMoniker": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Controllers\\ContactDtlsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContactDtlsController.cs",
+              "ToolTip": "C:\\Users\\gopal\\source\\repos\\KnilaAssessMent_APIs\\Controllers\\ContactDtlsController.cs",
+              "RelativeToolTip": "Controllers\\ContactDtlsController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T14:24:06.184Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

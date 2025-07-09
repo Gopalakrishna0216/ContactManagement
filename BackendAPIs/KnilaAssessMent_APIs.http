@@ -1,0 +1,6 @@
+@KnilaAssessMent_APIs_HostAddress = http://localhost:5278
+
+GET {{KnilaAssessMent_APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
